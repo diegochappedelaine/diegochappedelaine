@@ -8,8 +8,6 @@ Making the user experience as pleasant and fun as possible.
 
 - Team member [@koliving](https://github.com/koliving)
 
-<img align='right' src="https://user-images.githubusercontent.com/25375651/134128821-06a51c91-d026-4ebd-8fc5-ec320f2665b5.gif" width="350">
-
 ### Skills
 
 - 👨‍💻 `TypeScript`, `JavaScript`
