@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Diego! 👋
 
-<!--
-**diegochappedelaine/diegochappedelaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer from Paris, France. 
 
-Here are some ideas to get you started:
+Passionate about code, I develop both front and backend interfaces, mainly in React and NodeJS with a strong appetite for TypeScript. I love learning, understanding and testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Making the user experience as pleasant and fun as possible.
+
+- Team member [@koliving](https://github.com/koliving)
+
+<img align='right' src="https://user-images.githubusercontent.com/25375651/134127028-cb97ca9c-af51-429e-90ee-33d3fbe39e57.gif" width="350">
+
+
+### Skills
+
+- 👨‍💻 `TypeScript`, `JavaScript`
+- 💻 `React`, `Nextjs`, `React Native`
+- 🖌 `SASS`, `styled-components`
+- 🛠 `NodeJS`, `ExpressJS`
+- 📁 `MongoDB`, `Mongoose`
+- ⚙ `GraphQL`, `Apollo`
+
+### Contact
+
+[/in/diegochappedelaine](https://www.linkedin.com/in/diegochappedelaine/)
