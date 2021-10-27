@@ -6,8 +6,6 @@ Passionate about code, I develop both front and backend interfaces, mainly in Re
 
 Making the user experience as pleasant and fun as possible.
 
-- Team member [@koliving](https://github.com/koliving)
-
 ### Skills
 
 - 👨‍💻 `TypeScript`, `JavaScript`
