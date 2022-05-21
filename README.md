@@ -6,15 +6,6 @@ Passionate about code, I develop both front and backend interfaces, mainly in Re
 
 Making the user experience as pleasant and fun as possible.
 
-### Skills
-
-- 👨‍💻 `TypeScript`, `JavaScript`
-- 💻 `React`, `Nextjs`, `React Native`
-- 🖌 `SASS`, `styled-components`
-- 🛠 `NodeJS`, `ExpressJS`
-- 📁 `MongoDB`, `Mongoose`
-- ⚙ `GraphQL`, `Apollo`
-
 ### Contact
 
 [/in/diegochappedelaine](https://www.linkedin.com/in/diegochappedelaine/)
